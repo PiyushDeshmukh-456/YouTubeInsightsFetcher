@@ -9,5 +9,5 @@ def test_api_connection(api_key):
     ).execute()
     print(response)
 
-api_key = "AIzaSyAo06LBSmIYdznnpEw4COyeiOqknEnyQJU"  # Replace with your actual API key
+api_key = "****************************"  # Replace with your actual API key
 test_api_connection(api_key)
